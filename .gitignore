@@ -1,0 +1,31 @@
+# 1. SIMULINK/SIMSCAPE GENERATED FILES
+
+# These folders contain all the code generation and simulation cache.
+# They are large, platform-dependent, and regenerated on every run.
+slprj/
+_jitprj/
+_sfprj/
+sim/
+
+# Simulink Cache File - ALWAYS IGNORE
+# Generated when you open or simulate an SLX file.
+*.slxc
+
+# Compiled C/C++ files generated for speed.
+*.mex*
+
+# 2. TEMPORARY FILES AND BACKUPS
+
+# MATLAB editor autosave files
+*.asv
+*.m~
+
+# Operating System Files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# 3. OUTPUT DATA FILES
+
+# Files that are the result of a simulation or calculation, not the source.
+*.log
+*.out
