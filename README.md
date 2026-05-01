@@ -1,4 +1,4 @@
-# 🔄 Furuta Pendulum — Hybrid Control System
+# Furuta Pendulum — Hybrid Control System
 
 > **MCT411: Hybrid Control | Fall 2025 | Team 14**  
 > Ain Shams University — Faculty of Engineering, Mechatronics Department
